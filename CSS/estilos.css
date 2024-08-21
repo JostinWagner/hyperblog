@@ -2,10 +2,30 @@ body
 {
     color: rgb(0, 0, 0);
     text-align: center;
-    font-family: "Arial";
+    font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
 }
+
+#cabecera 
+{
+    background-color: blue;
+    box-shadow: #020202;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline 
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}    
+
+
+
 #container
 {
 
